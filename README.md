@@ -7,7 +7,7 @@ Você acabou de embarcar na jornada de descoberta do projeto incrível desenvolv
 ![](print.png)
 
 
-O é uma aplicação web simples e interativa que permite aos usuários adicionar, editar, visualizar e remover tarefas, tudo em um ambiente visual agradável e amigável. 
+O Fokus é uma aplicação web simples e interativa que permite aos usuários adicionar, editar, visualizar e remover tarefas, tudo em um ambiente visual agradável e amigável. 
 
 ## As Magias que o Projeto Realiza
 
